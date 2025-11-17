@@ -1,0 +1,8 @@
+api (website) >> Python (Extraction) >> stored in (CSV) after
+                 | Python(numpy, pandas, matplotlib) after clean data >> Python(eg: pyodbs) and connect with SQL >>> 1- table 2- Data df >> and show on stremlit webapp(5 analysis)
+                 | 1- Clean Data Csv
+                 | 2- at least 5 analysis with visuals
+
+
+https://used-cars-analysis-7lpd2en6z3ybgmvwjcropx.streamlit.app/#pak-wheels-used-cars-dashboard (Streamlit web app host url)
+
